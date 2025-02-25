@@ -77,3 +77,5 @@ The microservice responds with JSON data. Below are examples of responses for ea
   "timestamp": "2024-02-23T12:34:56.789012"
 }
 ```
+### UML Sequence Diagram
+<img width="451" alt="image" src="https://github.com/user-attachments/assets/8e2e84f0-5a19-47c7-8fe4-15c0f8a46e06" />
